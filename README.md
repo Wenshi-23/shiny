@@ -6,3 +6,10 @@ https://wen-chen-911.shinyapps.io/teal_demo3/
 
 <img width="905" alt="image" src="https://github.com/user-attachments/assets/d27405ff-17ff-40f6-a0de-5dcea444d9b0" />
 
+### Reference:
+Youtube video 
+R Shiny Masterclass: Building, Styling, and Scaling Shiny Applications || Posit || Appsilon
+https://www.youtube.com/watch?v=MYVojGHeKAc
+
+ebooks:
+https://mastering-shiny.org/
